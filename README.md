@@ -15,4 +15,5 @@ To reach the maintainer — including about SAVE POINT's use of a weather API �
 SAVE POINT requests forecasts from the
 [MET Norway Locationforecast API](https://api.met.no/weatherapi/locationforecast/2.0/documentation)
 and identifies itself with the User-Agent `SAVEPOINT/<version> (https://github.com/Phant0m-Snak3/SavePoint)`.
-Weather data © MET Norway, licensed under CC BY 4.0.
+Weather: data from MET Norway (The Norwegian Meteorological Institute), licensed under
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) and NLOD 2.0. SAVE POINT is not endorsed by MET Norway.
